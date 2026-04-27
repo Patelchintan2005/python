@@ -1,5 +1,2 @@
-  i=8
-  if i%2==0:
-    return "Even"
-  else:
-    return "False"
+for i in range(1..5):
+  print("Chintan TECOC40")
