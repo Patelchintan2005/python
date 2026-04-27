@@ -1,2 +1,2 @@
-for i in range(1..5):
+for i in range(5):
   print("Chintan TECOC40")
